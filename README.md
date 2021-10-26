@@ -46,3 +46,5 @@ I'm working on different Projects Like Minecraft Plugins or Some Cybersecurity "
 <h3 align="center">Github Statistics</h3>
 <p align=”center”>
 <img src="https://github-readme-stats.vercel.app/api?username=UnknownRebell&count_private=true&theme=dark&show_icons=true"></p>
+  
+<br>Thanks To<a href="https://github.com/WilliDieEnte">WilliDieEnte</a> For the "inspiration" of this!
