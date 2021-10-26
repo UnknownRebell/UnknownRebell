@@ -24,7 +24,7 @@ I'm working on different Projects Like Minecraft Plugins or Some Cybersecurity "
 <p align=”center”>
 <a href="https://www.patreon.com/UnknownRebell/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
 <a href="https://liberapay.com/UnknownRebell/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black">
-<a href="https://ko-fi.com/UnknownRebell"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></p>
+<a href="https://ko-fi.com/UnknownRebell"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 <!--<img src="https://img.shields.io/github/sponsors/UnknownRebell">--></p>
 
@@ -47,4 +47,4 @@ I'm working on different Projects Like Minecraft Plugins or Some Cybersecurity "
 <p align=”center”>
 <img src="https://github-readme-stats.vercel.app/api?username=UnknownRebell&count_private=true&theme=dark&show_icons=true"></p>
   
-<br>Thanks To <a href="https://github.com/WilliDieEnte">WilliDieEnte</a> For the "inspiration" of this!
+<br><a href="https://github.com/WilliDieEnte">Thanks To WilliDieEnte</a> For the "inspiration" of this!
