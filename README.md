@@ -7,7 +7,6 @@
 I'm working on different Projects Like Minecraft Plugins or Some Cybersecurity "tools"
 <br>Feel Free to contact me at any Time!
 <br>Contact me at any time, if you want to just chat or want Advice / Help with your Project, I'm there for you ^^
-<br>My Pronouns are He/Him.</p>
 
 <h3 align="center">I'm currently working at nothing, So if you need something you can Contact me!</h3>
 
