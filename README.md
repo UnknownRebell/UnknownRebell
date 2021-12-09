@@ -9,7 +9,7 @@ I'm working on different Projects Like Minecraft Plugins or Some Cybersecurity "
 <br>Contact me at any time, if you want to just chat or want Advice / Help with your Project, I'm there for you ^^
 
 <h3 align="center">I'm working at</h3>
-  <br>- <a href="https://www.germanlags.de">www.GermanLags.de</a>
+  <br>- <a href="https://www.germanlags.de">www.germanlags.de</a>
 
 <br><p align=”center”><img alt="♥" src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%20in-Germany-success?style=for-the-badge"></p>
 
