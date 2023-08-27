@@ -20,10 +20,10 @@ I'm currently working on different Projects like Some Cybersecurity "tools", but
 <a href="https://www.reddit.com/user/UnknownRebell/"><img alt="Reddit" src="https://img.shields.io/badge/UnknownRebell-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 <a href="https://github.com/UnknownRebell"><img alt="Github" src="https://img.shields.io/github/followers/UnknownRebell?style=for-the-badge&logo=github"></p>
 
-<h3 align="center">I personally use</h3>
+ <!--<h3 align="center">I personally use</h3>
 <p align=”center”>
 <img alt="Microsoft Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-Dings"></p>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-Dings"></p>-->
 
 <h3 align="center">and I mainly work with</h3>
 <p align=”center”>
